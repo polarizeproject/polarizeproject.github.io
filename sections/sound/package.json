@@ -1,0 +1,20 @@
+{
+  "name": "playways",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katshaze/playways.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/katshaze/playways/issues"
+  },
+  "homepage": "https://github.com/katshaze/playways#readme"
+}
