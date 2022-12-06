@@ -329,7 +329,7 @@ animation: text-clip 1.5s cubic-bezier(.77,0,.175,1);}
      font-size: 0.7vw;
     margin-left: 2%;  /* typewriter*/ 
     	border-right: .1em solid transparent;
-	width: 12.9%;
+	width: 14%;
 	white-space: nowrap;
 	overflow: hidden;
 	-webkit-animation: typing 1s steps(50, end),
