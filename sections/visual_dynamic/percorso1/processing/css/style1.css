@@ -402,3 +402,13 @@ p {
   
 }
 
+@media screen and (min-width: 1600px) {
+    
+  #programma {
+    position: absolute;
+    margin-left: 10%;
+    margin-top: -1%;
+    transform: scale(0.75)
+}
+    
+}

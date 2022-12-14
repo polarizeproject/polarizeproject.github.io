@@ -389,3 +389,19 @@ animation: text-clip 1.5s cubic-bezier(.77,0,.175,1);}
 }
 
 
+@media screen and (min-width: 1600px) {
+    
+    .one {width: 410px;height: 590px;}
+    .two {width: 410px;height: 590px;}
+    .three {width: 410px;height: 590px;}
+    .four {width: 410px;height: 590px;}
+    
+    #imma1 {width: 414px; height: 590px;}
+    #imma2 {width: 414px; height: 590px;}
+    #imma3 {width: 414px; height: 590px;}
+    #imma4 {width: 414px; height: 590px;}
+    
+     
+    
+}
+
